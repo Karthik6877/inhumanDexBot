@@ -1,10 +1,10 @@
 {
-    "name": "InhumanDex",
-    "description": "InhumanDex is a bot which acts as a helper for trainers on Telegram. You can check information of Pokemon, Showdown usage and organize Raids as quickly as possible, without ever leaving the app",
+    "name": "PikaDex Bot",
+    "description": "PikaDex is a bot which acts as a helper for trainers on Telegram. You can check information of Pokemon, Showdown usage and organize Raids as quickly as possible, without ever leaving the app",
     "keywords": [
       "InhumanDex"
     ],
-    "repository": "https://github.com/anilchauhanxda/inhumanDexBot",
+    "repository": "http://t.me/Karthik6877",
     "env": {
       "BOT_TOKEN": {
         "description": "Put your bot token."
